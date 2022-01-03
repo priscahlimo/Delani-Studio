@@ -25,11 +25,11 @@ body{
     background-position: center;
 
 }
-/*.design-infomation, .dev-infomation, .product-infomation{
+.design-infomation, .dev-infomation, .product-infomation{
     display: none;
 }
 
-.card p{
+/*.card p{
     display: none;
     color:red;
     font-size: 30px;
