@@ -1,0 +1,60 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    height: 100vh;
+    font-family: 'Open Sans', sans-serif;
+}
+.initial{
+    background-image: url(../images/h_img.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+
+}
+.content{
+    padding-top: 15%;
+    text-align: center;
+    color: #fff;
+    font-weight:600;
+}
+.service{
+    background-image: url(../images/s_image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+.design-infomation, .dev-infomation, .product-infomation{
+    display: none;
+}
+
+.card p{
+    display: none;
+    color:red;
+    font-size: 30px;
+    font-weight: bolder;
+    line-height: 5.5;
+}
+.card:hover{
+    opacity: 0.6;
+}
+
+.reachout{
+    background-image: url(../images/c_image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+input[type=text],input[type=email],#message{
+    background-color: transparent;
+    border: 1px solid white;
+}
+.form-control::placeholder { 
+    color: white;
+    /* opacity: 1; */
+}
+#submit{
+    border-radius: 5px;
+}
