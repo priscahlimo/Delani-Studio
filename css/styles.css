@@ -29,7 +29,7 @@ body{
     display: none;
 }
 
-/*.card p{
+.card p{
     display: none;
     color:red;
     font-size: 30px;
@@ -40,7 +40,7 @@ body{
     opacity: 0.6;
 }
 
-.reachout{
+/*.reachout{
     background-image: url(../images/c_image.jpg);
     background-size: cover;
     background-repeat: no-repeat;
