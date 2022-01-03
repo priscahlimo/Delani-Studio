@@ -40,14 +40,14 @@ body{
     opacity: 0.6;
 }
 
-/*.reachout{
+.reachout{
     background-image: url(../images/c_image.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 
 }
-input[type=text],input[type=email],#message{
+/*input[type=text],input[type=email],#message{
     background-color: transparent;
     border: 1px solid white;
 }
