@@ -18,14 +18,14 @@ body{
     color: #fff;
     font-weight:600;
 }
-/*.service{
+.service{
     background-image: url(../images/s_image.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 
 }
-.design-infomation, .dev-infomation, .product-infomation{
+/*.design-infomation, .dev-infomation, .product-infomation{
     display: none;
 }
 
