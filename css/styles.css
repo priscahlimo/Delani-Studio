@@ -51,10 +51,10 @@ input[type=text],input[type=email],#message{
     background-color: transparent;
     border: 1px solid white;
 }
-/*.form-control::placeholder { 
+.form-control::placeholder { 
     color: white;
-    /* opacity: 1; */
-/* }
-#submit{
+    opacity: 1;
+}
+/*#submit{
     border-radius: 5px;
 /* } */ 
